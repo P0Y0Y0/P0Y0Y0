@@ -33,10 +33,17 @@
 
 ---
 
+### 📊 GitHub Stats
+
+![Theon's GitHub stats](https://github-readme-stats.vercel.app/api?username=P0Y0Y0&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=P0Y0Y0&layout=compact&theme=radical)
+
+---
+
 ### 📫 Connect with Me
 
-- 💼 [LinkedIn](https://id.linkedin.com/in/theon-anabel-302395147)
-- ✉️ theonanabel15@gmail.com
+- [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://id.linkedin.com/in/theon-anabel-302395147)
+- [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:theonanabel15@gmail.com)
 - [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/theon.anabel)
 
 ---
