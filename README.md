@@ -35,7 +35,6 @@
 
 ### 📊 GitHub Stats
 
-![Theon's GitHub stats](https://github-readme-stats.vercel.app/api?username=P0Y0Y0&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=P0Y0Y0&layout=compact&theme=radical)
 
 ---
