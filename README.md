@@ -20,8 +20,7 @@
 **Tools & Frameworks:**
 - Android Studio
 - Firebase
-- RStudio  
-- Jupyter
+- RStudio
 - Laravel 
 - React  
 - Git & GitHub  
